@@ -1,0 +1,9 @@
+opencv-python
+cvzone
+SpeechRecognition
+pyttsx3
+pyautogui
+numpy
+deepface
+mediapipe
+keyboard
